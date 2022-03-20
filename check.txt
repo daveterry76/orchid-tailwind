@@ -1,0 +1,12 @@
+<div class="w-full h-screen bg-gradient-to-br from-purple-100 to-pink-100 via-cyan-100 p-10">
+        <div class="prose prose-lg">
+            <h1>Hi. I'm David</h1>
+            <p>Since 2018, I've had passion for programming and during this time,
+                I have learnt technologies like Python, C#, HTML, CSS, Bootstrap, Git.
+            </p>
+    
+            <p>I hope to expand my knowledge and grow in the tech industry.
+                 Here is a link to my portfolio website: <a href="https://daveterry.netlify.app/"><strong>Daveterry</strong></a>
+            </p>
+        </div>
+    </div>
